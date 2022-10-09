@@ -4,4 +4,4 @@ How to run project:
 
 ![add_twitter_dstream_jar](add_twitter_dstream_jar.png)
 
-2 - Add twitter.txt in the project root path that contains credentials tpo connect to Twitter Api
+2 - Add Twitter Api credentials to twitter.txt file
