@@ -1,4 +1,4 @@
-package com.sundogsoftware.sparkstreaming
+package com.d4rkc0de.sparkstreaming
 
 import java.util.regex.Pattern
 

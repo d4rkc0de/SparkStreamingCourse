@@ -1,4 +1,4 @@
-package com.sundogsoftware.sparkstreaming
+package com.d4rkc0de.sparkstreaming
 
 import org.apache.spark.streaming._
 import org.apache.spark.streaming.twitter._
